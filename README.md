@@ -55,7 +55,7 @@ Aqui está um exemplo de como utilizar o SovereignCounter no terminal:
 
 1. Após buildado o projeto, execute o arquivo:
 ```
-./sovereign_counter
+./desafio_cli
 ```
 2. Siga as instruções para inserir os nomes dos reis e rainhas, um por linha:
 ```
