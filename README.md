@@ -4,7 +4,7 @@ Este repositório contém um módulo em Elixir para registrar e numerar os nomes
 ## Sumário
 - [Visão Geral](#visão-geral)
 - [Pré-requisitos](#Pré-requisitos)
-- [Como Inicializar](#início-rápido)
+- [Início Rápido](#início-rápido)
 - [Como Buildar](#como-buildar)
 - [Rodar os Testes](#rodar-os-teste)
 - [Exemplo de Uso](#exemplo-de-uso)
@@ -24,8 +24,8 @@ Para começar, siga os passos abaixo:
 
   1. Clone o repositório e navegue até ele:
 ```bash
-git clone https://github.com/matheuspdf/template_desafio_cli.git
-cd template_desafio_cli
+git clone https://github.com/matheuspdf/desafio_cli.git
+cd desafio_cli
 ```
 
   2. Instale as dependências:
