@@ -43,7 +43,7 @@ Isso irá compilar o código-fonte do projeto.
 
 <br>
 
-# Rodar os Teste
+# Rodar os Testes
 Para rodar os testes, utilize o comando:
 ```
 mix test
